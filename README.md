@@ -12,3 +12,5 @@ Note:
 The script is not written for optimised performance, so feel free to modify as needed. Also feel free to add functionality to the code.
 
 Contact information is provided in the header of each file, so feel free to use it if you have any questions.
+
+[![DOI](https://zenodo.org/badge/462423442.svg)](https://zenodo.org/badge/latestdoi/462423442)
