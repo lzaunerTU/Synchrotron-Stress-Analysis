@@ -1,4 +1,4 @@
-# Synchrotron-Stress-Analysis
+# Matlab Toolbox for Synchrotron Stress Analysis
 The available Matlab script and functions extract the stress state from synchrotron diffraction patterns (Debye-Scherrer rings) using the sin2(psi)-method.
 
 The file "stress_evaluation_sin2psi.m" is the main file for the analysis, the remaining functions are called within this script.
